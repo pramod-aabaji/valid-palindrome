@@ -1,3 +1,4 @@
+//Edited Code
 //Leetcode valid palindrome question.
 class Solution {
     public boolean isPalindrome(String s) {
